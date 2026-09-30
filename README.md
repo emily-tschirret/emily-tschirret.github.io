@@ -1,3 +1,3 @@
 <h1> Hi ! Welcome to my repository </h1>
 
-<p> <a> href-"WebDev/index.html" target-"blank">Assignment 1</a></p>
+<a href="WebDev/index.html" target="_blank">Assignment 1</a>
